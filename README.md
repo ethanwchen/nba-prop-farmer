@@ -34,11 +34,17 @@ Example command:
 Supported statistics abbreviations:
 
 P: Points (PTS)
+
 R: Rebounds (REB)
+
 A: Assists (AST)
+
 PA: Points + Assists (PTS_AST)
+
 PR: Points + Rebounds (PTS_REB)
+
 3P: Three-Point Field Goals Made (FG3M)
+
 The bot will respond with a message containing the predicted performance, probability distribution, and visualizations of the projection and Monte Carlo simulation results.
 
 <img width="440" alt="Screen Shot 2023-03-27 at 10 09 56 AM" src="https://user-images.githubusercontent.com/96222805/228015525-31835d67-8232-4a2b-bd5c-68e878f8bc76.png">
