@@ -56,3 +56,5 @@ The bot will respond with a message containing the predicted performance, probab
 Contributions are welcome! Please feel free to open a pull request or create an issue to report bugs or suggest improvements.
 
 I am still actively working on this project and looking to make improvements, feel free to drop any ideas.
+
+https://medium.com/@ethanwchen/nba-sportsbetting-with-data-science-f030ce2327ee
