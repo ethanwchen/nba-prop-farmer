@@ -51,6 +51,14 @@ The bot will respond with a message containing the predicted performance, probab
 
 (Draymond Green's Actual Stats This Game: 12 Points)
 
+## Update Log
+
+**APRIL 9TH, 2023**
+
+<img width="872" alt="Screen Shot 2023-04-09 at 8 05 46 PM" src="https://user-images.githubusercontent.com/96222805/230980474-2be169de-6958-4c96-9911-68923528b20f.png">
+
+Updating bot parameters with 2023 NBA Playoff Stats. Predictions expanded from only prop values to team W/L and series scoring predictions.
+
 #### Contributing
 
 Contributions are welcome! Please feel free to open a pull request or create an issue to report bugs or suggest improvements.
