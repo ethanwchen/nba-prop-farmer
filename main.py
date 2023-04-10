@@ -2,7 +2,7 @@ import os
 import discord
 import typing
 from discord.ext import commands
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 import matplotlib.pyplot as plt
 from nba_api.stats.endpoints import commonplayerinfo, playergamelog
 from nba_api.stats.static import players
