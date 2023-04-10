@@ -4,4 +4,4 @@ python-dotenv==0.19.1
 matplotlib==3.5.1
 nba-api==1.1.14
 scikit-learn==1.0.2
-numpy==1.22.2
+numpy==1.22.2 
