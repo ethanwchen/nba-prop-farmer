@@ -1,4 +1,7 @@
-# NBA Prop Farmer ⛹️‍♂️:
+# NBA Prop Predictor ⛹️‍♂️:
+
+*Learning to predict play props with Monte Carlo Simulations*
+
 A Discord bot that predicts NBA player performance in their next game using linear regression and Monte Carlo simulation. Users can request a projection for a specific player and statistic, and the bot will provide an interactive visualization with the predicted value and probability distribution.
 
 ![donny](https://user-images.githubusercontent.com/96222805/231003184-85800a96-1ebf-41a2-8406-d35fdb23d44f.jpeg)
