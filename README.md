@@ -3,6 +3,7 @@ A Discord bot that predicts NBA player performance in their next game using line
 
 ![donny](https://user-images.githubusercontent.com/96222805/231003184-85800a96-1ebf-41a2-8406-d35fdb23d44f.jpeg)
 
+*Donovan Mitchell after historic 71 point game*
 
 #### Features
 
