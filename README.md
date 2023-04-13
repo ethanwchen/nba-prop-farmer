@@ -66,6 +66,8 @@ The bot will respond with a message containing the predicted performance, probab
 
 Updating bot parameters with 2023 NBA Playoff Stats. Predictions expanded from only prop values to team W/L and series scoring predictions.
 
+In addition to new predictive team values, mid-match bot usage will now be enabled, allowing for 2H and 4Q predicting.
+
 #### Contributing
 
 Contributions are welcome! Please feel free to open a pull request or create an issue to report bugs or suggest improvements.
